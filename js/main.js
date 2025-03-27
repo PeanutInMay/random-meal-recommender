@@ -30,7 +30,10 @@ const meals = {
         { name: "煲仔饭", emoji: "🍚" },
         { name: "烧腊", emoji: "🍚" },
         { name: "水饺", emoji: "🥟" },
-        { name: "沙县小吃", emoji: "🥡" }
+        { name: "沙县小吃", emoji: "🥡" },
+        { name: "米线", emoji: "🍜"},
+        { name: "芝士焗饭", emoji: "🍛"},
+        { name: "鸡柳豆角", emoji: "🍛"}
     ],
     dinner: [
         { name: "肉筋饭", emoji: "🍖" },
