@@ -33,7 +33,8 @@ const meals = {
         { name: "沙县小吃", emoji: "🥡" },
         { name: "米线", emoji: "🍜"},
         { name: "芝士焗饭", emoji: "🍛"},
-        { name: "鸡柳豆角", emoji: "🍛"}
+        { name: "鸡柳豆角", emoji: "🍛"},
+        { name: "油泼面", emoji: "🍜"}
     ],
     dinner: [
         { name: "肉筋饭", emoji: "🍖" },
@@ -57,7 +58,11 @@ const meals = {
         { name: "烧烤", emoji: "🍢" },
         { name: "寿司", emoji: "🍣" },
         { name: "汉堡薯条", emoji: "🍔" },
-        { name: "减脂餐", emoji: "🥣" }
+        { name: "减脂餐", emoji: "🥣" },
+        { name: "米线", emoji: "🍜"},
+        { name: "芝士焗饭", emoji: "🍛"},
+        { name: "鸡柳豆角", emoji: "🍛"},
+        { name: "油泼面", emoji: "🍜"}
     ]
 };
 
